@@ -1,0 +1,18 @@
+.line-container {
+    position: relative;
+    width: 100%;
+    height: 50px;
+    /* Adjust as needed */
+}
+
+.horizontal-line {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 5px;
+    /* Thickness of the line */
+    background-color: black;
+    /* Color of the line */
+    transition: bottom 0.3s ease-in-out;
+    /* Smooth transition for moving up and down */
+}
