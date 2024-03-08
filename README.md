@@ -108,6 +108,13 @@ npm run dev
 ![Landing Page](./public/assets/imgs/screenshots/4.png)
 
 ![Landing Page](./public/assets/imgs/screenshots/5.png)
+![Landing Page](./public/assets/imgs/screenshots/11.png)
+
+![Landing Page](./public/assets/imgs/screenshots/22.png)
+
+![Landing Page](./public/assets/imgs/screenshots/33.png)
+
+![Landing Page](./public/assets/imgs/screenshots/44.png)
 
 <!-- copy writes -->
 
