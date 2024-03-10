@@ -51,13 +51,13 @@ function CoolestProjects() {
         </div>
 
         <VideoSider
-          videoSrc="../../../public/assets/videos/coin.mp4"
+          videoSrc="/assets/videos/coin.mp4"
           textTitle1="CREATIVE"
           fontColor="white"
         />
 
         <VideoSider
-          videoSrc="../../../public/assets/videos/coin.mp4"
+          videoSrc="/assets/videos/coin.mp4"
           textTitle1="CREATIVE"
           textTitle2="DESIGN"
           fontColor="white"

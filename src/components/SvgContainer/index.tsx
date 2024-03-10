@@ -6,10 +6,7 @@ function SvgContainer() {
     // <div className="cb-overview-grid">
     <div className={styles["cb-overview-grid"]}>
       <div className={styles.starImg}>
-        <img
-          src="../../../public/assets/imgs/starSetting.png"
-          alt="starSetting"
-        />
+        <img src="/assets/imgs/starSetting.png" alt="starSetting" />
       </div>
 
       <div className={styles.content}>
