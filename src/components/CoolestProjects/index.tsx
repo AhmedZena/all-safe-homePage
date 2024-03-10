@@ -53,7 +53,6 @@ function CoolestProjects() {
         <VideoSider
           videoSrc="../../../public/assets/videos/coin.mp4"
           textTitle1="CREATIVE"
-          textTitle2="DESIGN"
           fontColor="white"
         />
 

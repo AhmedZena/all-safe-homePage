@@ -6,7 +6,7 @@ function DropedShapes() {
     <div className={styles.backgroundVideoContainer}>
       <video className={styles.backgroundVideo} autoPlay loop muted playsInline>
         <source
-          src="../../../public/assets/videos/droppedShapes.mp4"
+          src="https://www.allsafeeg.com/uploads/hello/source/63691344.mp4"
           type="video/mp4"
         />
         Your browser does not support the video tag.

@@ -23,7 +23,7 @@ function App() {
         <Landing />
         <Cursor />
         <VideoSider
-          videoSrc="../../../public/assets/videos/videoSlider.mp4"
+          videoSrc="https://www.allsafeeg.com/uploads/hello/source/51865606.mp4"
           textTitle1="CREATIVE"
           textTitle2="DESIGN"
         />

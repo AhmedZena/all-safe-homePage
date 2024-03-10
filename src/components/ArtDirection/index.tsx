@@ -77,7 +77,7 @@ function ArtDirection() {
               style={{ borderRadius: "50%", width: "300px", height: "300px" }}
             >
               <source
-                src="../../../public/assets/videos/bubbles.mp4"
+                src="https://www.allsafeeg.com/uploads/hello/source/33399711.mp4"
                 type="video/mp4"
               />
               Your browser does not support the video tag.

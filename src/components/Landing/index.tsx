@@ -39,7 +39,7 @@ function Landing() {
       <div className={styles["cb-video-container"]}>
         <video autoPlay loop muted playsInline style={{ width: "50%" }}>
           <source
-            src="../../../public/assets/videos/space.mp4"
+            src="https://www.allsafeeg.com/uploads/hello/source/91530472.mp4"
             type="video/mp4"
           />
           Your browser does not support the video tag.
